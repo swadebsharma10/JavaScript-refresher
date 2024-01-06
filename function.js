@@ -4,7 +4,7 @@ function hello1(){
     // return undefined;
 }
 let msg = hello1();
-console.log(msg)
+console.log("message", msg)
 
 
 // function Expression
@@ -26,3 +26,6 @@ const hello4 =()=>{
     console.log("Hello World Arrow function")
 }
 hello4();
+
+// Anonymous function
+
